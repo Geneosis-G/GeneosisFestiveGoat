@@ -1,0 +1,30 @@
+Weee!!! Fireworks!!
+
+The party is boring and the music is shitty? Don't worry, add some fireworks all over the place and it will be a lot more fun :D
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Festive Goat: You can place fireworks.
+
+[b]COMMANDS[/b]
+- [b][R]:[/b] Place a firework.
+
+[b]GAMEPAD COMMANDS[/b]
+- [b][Y]:[/b] Place a firework.
+
+[b]CHARACTERISTICS[/b]
+- You can only place fireworks when you are touching the ground and not ragdolled.
+- Fireworks will stick to the first creature or object they touch, and then take off.
+
+[b]EASTER EGGS[/b]
+- [spoiler]Stacking fireworks is dangerous :p[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- Fireworks don't always touch the object they stick to (they float near it).
+- Fireworks sometimes have weird angles compared to the object they are attached to.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]That mod was waithing for a long time now as I abandoned it because it was not working as I expected... But I decided to put some more work into it and I finally managed to have it working :p
+So here they are: placable fireworks! ^^ I also added a few more features compared to regular fireworks: my fireworks can also stick to ragdolls, and to moving objects :) 
+[/quote]
